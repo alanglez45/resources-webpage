@@ -93,5 +93,20 @@ export const practice = [
         name: "Juego CSS plates",
         url: "https://flukeout.github.io/",
         category: "CODING PRACTICE"
-    }
+    },
+    {
+        name: "SQL Island juego",
+        url: "https://sql-island.informatik.uni-kl.de/",
+        category: "CODING PRACTICE"
+    },
+    {
+        name: "SQL Murder Mystery juego",
+        url: "https://mystery.knightlab.com/",
+        category: "CODING PRACTICE"
+    },
+    {
+        name: "SQL Police Department juego",
+        url: "https://sqlpd.com/",
+        category: "CODING PRACTICE"
+    },
 ];
