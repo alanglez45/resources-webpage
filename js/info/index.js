@@ -21,12 +21,16 @@ import { errors } from "./error-solutions.js";
 import { vscodeExtensions } from "./vscode-extensions.js";
 import { others } from "./others.js";
 import { ux } from "./ux.js";
+import { dsa } from "./DSA.JS";
+import { pyhton } from "./python.js";
+import { java } from "./java.js";
 
 export const resources = [
     ...apis,
     ...color,
     ...css,
     ...documentation,
+    ...dsa,
     ...errors,
     ...fonts,
     ...git,
@@ -36,6 +40,7 @@ export const resources = [
     ...images,
     ...imgTools,
     ...interviews,
+    ...java,
     ...js,
     ...jsLibraries,
     ...markdown,
@@ -43,6 +48,7 @@ export const resources = [
     ...nodejs,
     ...others,
     ...practice,
+    ...pyhton,
     ...react,
     ...regex,
     ...sql,
@@ -50,4 +56,5 @@ export const resources = [
     ...usefulTools,
     ...ux,
     ...vscodeExtensions,
+
 ];

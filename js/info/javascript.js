@@ -80,8 +80,8 @@ export const js = [
         category: "JS"
     },
     {
-        name: "JavaScript Algorithms and Data Structures",
-        url: "https://github.com/trekhleb/javascript-algorithms",
+        name: "JavaScript Visualizer 9000 | understand eventloop",
+        url: "https://www.jsv9000.app/",
         category: "JS"
     },
 ];

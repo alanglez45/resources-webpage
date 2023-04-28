@@ -29,4 +29,9 @@ export const hostings = [
         url: "https://vercel.com/",
         category: "HOSTINGS"
     },
+    {
+        name: "back4app",
+        url: "https://www.back4app.com/",
+        category: "HOSTINGS"
+    },
 ];

@@ -49,4 +49,9 @@ export const usefulTools = [
         url: "https://www.umletino.com/umletino.html",
         category: "USEFUL TOOLS"
     },
+    {
+        name: "Create an amazing GitHub profile in minutes",
+        url: "https://www.profileme.dev/create-profile",
+        category: "USEFUL TOOLS"
+    },
 ];

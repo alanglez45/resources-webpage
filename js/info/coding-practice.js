@@ -1,112 +1,118 @@
+const category = "CODING PRACTICE";
 export const practice = [
     {
         name: "Practice programming various languages",
         url: "https://exercism.org/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "Codewell HTML and CSS",
         url: "https://www.codewell.cc/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "Frontend Mentor",
         url: "https://www.frontendmentor.io/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "CodePen Challenges",
         url: "https://codepen.io/challenges",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "100dayscss",
         url: "https://100dayscss.com/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "CSS Battle",
         url: "https://cssbattle.dev/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "Codewars",
         url: "https://www.codewars.com/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "30 Day Vanilla JS Coding Challenge",
         url: "https://javascript30.com/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "30 seconds of code | Discover short code snippets for all your development needs.",
         url: "https://www.30secondsofcode.org/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "CODERBYTE: Improve your coding skills",
         url: "https://coderbyte.com/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "Dev challenges Frontend, Backend and Fullstack",
         url: "https://devchallenges.io/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "50 Projects in 50 Days - HTML/CSS and JavaScript",
         url: "https://github.com/bradtraversy/50projects50days",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "preview 50 Projects in 50 Days - HTML/CSS and JavaScript",
         url: "https://50projects50days.com/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "Hacker Rank",
         url: "https://www.hackerrank.com/dashboard",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "Leetcode programming problems and interviews",
         url: "https://leetcode.com/problemset/all/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "sololearn | The best way to learn to code",
         url: "https://www.sololearn.com/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "Juego Flexbox Froggy CSS",
         url: "https://flexboxfroggy.com/#es",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "Juego Flexbox Zombies CSS",
         url: "https://mastery.games/flexboxzombies/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "Juego CSS plates",
         url: "https://flukeout.github.io/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "SQL Island juego",
         url: "https://sql-island.informatik.uni-kl.de/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "SQL Murder Mystery juego",
         url: "https://mystery.knightlab.com/",
-        category: "CODING PRACTICE"
+        category
     },
     {
         name: "SQL Police Department juego",
         url: "https://sqlpd.com/",
-        category: "CODING PRACTICE"
+        category
+    },
+    {
+        name: "Zero To Mastery Community | Open Source Projects, Coding Challenges",
+        url: "https://zerotomastery.io/community/",
+        category
     },
 ];
