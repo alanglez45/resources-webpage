@@ -36,9 +36,75 @@ export const dsa = [
         category
     },
     {
+        name: "Learn DS & Algorithms | Programiz",
+        url: "https://www.programiz.com/dsa",
+        category
+    },
+    {
         name: "Trees Slides",
         url: "http://www.itnuevolaredo.edu.mx/takeyas/Apuntes/Estructura%20de%20Datos/Apuntes/07-ABB.pdf",
         category
     },
+    {
+        name: "VisuAlgo | visualising data structures and algorithms through animation",
+        url: "https://visualgo.net/en",
+        category
+    },
+    {
+        name: "Data Structure Visualizations",
+        url: "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
+        category
+    },
+    {
+        name: "BINARY SEARCH TREE AVL TREE | Visual Tool",
+        url: "https://visualgo.net/en/bst?slide=1",
+        category
+    },
+    {
+        name: "LINKED LIST STACK QUEUE DLL DEQUE | Visual Tool",
+        url: "https://visualgo.net/en/list",
+        category
+    },
+    {
+        name: "Heap Sort | Visual Explanation",
+        url: "https://brilliant.org/wiki/heap-sort/",
+        category
+    },
+    {
+        name: "Implement Queue using Stacks | exercise",
+        url: "https://leetcode.com/problems/implement-queue-using-stacks/description/",
+        category
+    },
+    {
+        name: "Two Sum | array exercise",
+        url: "https://leetcode.com/problems/two-sum/description/",
+        category
+    },
+    {
+        name: "Maximum Subarray | array exercise",
+        url: "https://leetcode.com/problems/maximum-subarray/description/",
+        category
+    },
+    {
+        name: "Move Zeroes | array exercise",
+        url: "https://leetcode.com/problems/move-zeroes/description/",
+        category
+    },
+    {
+        name: "Contains Duplicate | array exercise",
+        url: "https://leetcode.com/problems/contains-duplicate/description/",
+        category
+    },
+    {
+        name: "Rotate Array | array exercise",
+        url: "https://leetcode.com/problems/rotate-array/description/",
+        category
+    },
+    {
+        name: "Longest Word | array exercise",
+        url: "https://coderbyte.com/editor/Longest%20Word:JavaScript",
+        category
+    },
+
 
 ];

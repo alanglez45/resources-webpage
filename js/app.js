@@ -30,13 +30,14 @@ function cargarEventListeners() {
 
 function enviarFormulario(e) {
     e.preventDefault();
-    limpiarHTML(alertasDiv)
+    limpiarHTML(alertasDiv);
+    contenedor.classList.add('hide');
+
     const valor = busqueda.value
     if (!valor) {
         crearAlerta("Search input cannot be empty", "error");
         return;
     }
-
 
     const coincidencias = resources.filter(res => {
         if (res.name.match(new RegExp(valor, "gi"))) {
@@ -55,22 +56,18 @@ function enviarFormulario(e) {
 
 function mostrarResultados(coincidencias) {
     limpiarHTML(contenedor);
-    limpiarHTML(alertasDiv)
+    limpiarHTML(alertasDiv);
+    contenedor.classList.remove('hide');
 
     coincidencias.forEach(item => {
-        const card = document.createElement('div');
-        card.classList.add("card");
-        const urlP = document.createElement('p');
-        urlP.classList.add("url-name");
-        urlP.textContent = item.name;
-        const urlAnchor = document.createElement('a');
-        urlAnchor.rel = "noopener noreferrer";
-        urlAnchor.href = item.url;
-        urlAnchor.target = "_blank";
-        urlAnchor.textContent = "Open";
+        const link = document.createElement('a');
+        link.classList.add("link");
+        link.rel = "noopener noreferrer";
+        link.href = item.url;
+        link.target = "_blank";
+        link.textContent = item.name;
+        contenedor.appendChild(link);
 
-        card.append(urlP, urlAnchor);
-        contenedor.appendChild(card);
     });
 }
 
