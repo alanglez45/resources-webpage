@@ -24,6 +24,7 @@ import { ux } from "./ux.js";
 import { dsa } from "./DSA.JS";
 import { pyhton } from "./python.js";
 import { java } from "./java.js";
+import { repositories } from "./repos.js";
 
 export const resources = [
     ...apis,
@@ -51,6 +52,7 @@ export const resources = [
     ...pyhton,
     ...react,
     ...regex,
+    ...repositories,
     ...sql,
     ...tutorials,
     ...usefulTools,
