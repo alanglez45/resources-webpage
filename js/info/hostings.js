@@ -34,4 +34,9 @@ export const hostings = [
         url: "https://www.back4app.com/",
         category: "HOSTINGS"
     },
+    {
+        name: "fl0 [backend applications and databases with docker]",
+        url: "https://www.fl0.com/",
+        category: "HOSTINGS"
+    },
 ];

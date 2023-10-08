@@ -25,4 +25,10 @@ export const apis = [
         url: "https://www.mockaroo.com/",
         category
     },
+    {
+        name: "Resend [Api to send emails] Free",
+        url: "https://resend.com/",
+        category
+    },
+
 ];

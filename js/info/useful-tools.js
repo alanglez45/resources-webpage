@@ -54,4 +54,14 @@ export const usefulTools = [
         url: "https://www.profileme.dev/create-profile",
         category: "USEFUL TOOLS"
     },
+    {
+        name: "Open-source API development Ecosystem [Similar to Postman]",
+        url: "https://hoppscotch.io/",
+        category: "USEFUL TOOLS"
+    },
+    {
+        name: "JSON Editor",
+        url: "https://jsoneditoronline.org/",
+        category: "USEFUL TOOLS"
+    },
 ];
