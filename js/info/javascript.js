@@ -10,6 +10,16 @@ export const js = [
         category: "JS"
     },
     {
+        name: "El Tutorial de JavaScript Moderno",
+        url: "https://es.javascript.info/",
+        category: "JS"
+    },
+    {
+        name: "clean-code-javascript-es",
+        url: "https://github.com/andersontr15/clean-code-javascript-es",
+        category: "JS"
+    },
+    {
         name: "Typing and Deleting Effect with Javascript",
         url: "https://usefulangle.com/post/75/typing-effect-animation-javascript-css",
         category: "JS"
