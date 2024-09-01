@@ -10,8 +10,13 @@ export const icons = [
         category: "ICONS"
     },
     {
-        name: "Tabler Icons",
+        name: "Tabler Icons, cutomizable",
         url: "https://tablericons.com/",
+        category: "ICONS"
+    },
+    {
+        name: "Tabler Icons.IO 5550+ icons",
+        url: "https://tabler.io/icons",
         category: "ICONS"
     },
     {

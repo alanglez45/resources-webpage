@@ -115,6 +115,16 @@ export const css = [
         category: "CSS TOOLS"
     },
     {
+        name: "transition.css: Drop-in CSS transitions",
+        url: "https://www.transition.style/",
+        category: "CSS TOOLS"
+    },
+    {
+        name: "AnimatiSS: Nice collection of CSS animations for your awesome web projects",
+        url: "https://xsgames.co/animatiss/",
+        category: "CSS TOOLS"
+    },
+    {
         name: "Loaders, Animated Icons, Live Backgrounds",
         url: "https://loading.io/",
         category: "CSS TOOLS"

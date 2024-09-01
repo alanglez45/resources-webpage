@@ -16,6 +16,11 @@ export const practice = [
         category
     },
     {
+        name: "Devchallenges: JS, front-end, full-stack",
+        url: "https://devchallenges.io/",
+        category
+    },
+    {
         name: "CodePen Challenges",
         url: "https://codepen.io/challenges",
         category
@@ -71,6 +76,11 @@ export const practice = [
         category
     },
     {
+        name: "Exercism",
+        url: "https://exercism.org/",
+        category
+    },
+    {
         name: "Leetcode programming problems and interviews",
         url: "https://leetcode.com/problemset/all/",
         category
@@ -113,6 +123,11 @@ export const practice = [
     {
         name: "Zero To Mastery Community | Open Source Projects, Coding Challenges",
         url: "https://zerotomastery.io/community/",
+        category
+    },
+    {
+        name: "JS Katas: Learn JavaScript – In Depth",
+        url: "https://jskatas.org/",
         category
     },
 ];

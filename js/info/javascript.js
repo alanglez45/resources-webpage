@@ -142,4 +142,9 @@ export const jsLibraries = [
         url: "https://leafletjs.com/",
         category: "JS LIBRARIES"
     },
+    {
+        name: "Matter-js | 2D rigid body JavaScript physics engine for the web",
+        url: "https://brm.io/matter-js/demo/?fbclid=IwY2xjawE-L2dleHRuA2FlbQIxMAABHePjAUhUx1Pj62hjfw1q7AausrWtDwvgc-2sdb8PmzT2z_puoCf5tvfHcQ_aem_4IL-f8Eb9zK_Lz-Q0Eio5g#mixed",
+        category: "JS LIBRARIES"
+    },
 ]; 

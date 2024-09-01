@@ -21,6 +21,16 @@ export const sql = [
         category
     },
     {
+        name: "Learn SQL - Online SQL",
+        url: "https://www.sql-practice.com/",
+        category
+    },
+    {
+        name: "SQL Exercises, Practice, Solution",
+        url: "https://www.w3resource.com/sql-exercises/",
+        category
+    },
+    {
         name: "MySQL Full Course for free  (2023) YT",
         url: "https://www.youtube.com/watch?v=5OdVJbNCSso",
         category
