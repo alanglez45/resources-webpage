@@ -37,5 +37,10 @@ export const fonts = [
         name: "Google Fonts",
         url: "https://fonts.google.com/",
         category: "FONTS"
+    },
+    {
+        name: "Fontshare",
+        url: "https://www.fontshare.com/",
+        category: "FONTS"
     }
 ];

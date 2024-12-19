@@ -1,58 +1,88 @@
+const category = "ICONS"
 export const icons = [
     {
         name: "icons.com",
         url: "https://icon-icons.com/es/",
-        category: "ICONS"
+        category
     },
     {
         name: "Flaticon",
         url: "https://www.flaticon.es/",
-        category: "ICONS"
+        category
     },
     {
         name: "Tabler Icons, cutomizable",
         url: "https://tablericons.com/",
-        category: "ICONS"
+        category
     },
     {
         name: "Tabler Icons.IO 5550+ icons",
         url: "https://tabler.io/icons",
-        category: "ICONS"
+        category
     },
     {
         name: "HEROICONS",
         url: "https://heroicons.com/",
-        category: "ICONS"
+        category
     },
     {
         name: "Nounproject icons",
         url: "https://thenounproject.com/",
-        category: "ICONS"
+        category
     },
     {
         name: "FONTAWESOME",
         url: "https://fontawesome.com/",
-        category: "ICONS"
+        category
     },
     {
         name: "FONT AWESOME Libraries",
         url: "https://cdnjs.com/libraries/font-awesome",
-        category: "ICONS"
+        category
     },
     {
         name: "iconscout (Icons, Illustrations, SVGs)",
         url: "https://iconscout.com/",
-        category: "ICONS"
+        category
     },
     {
         name: "Websites For Free Icon Sets",
         url: "https://wweb.dev/resources/free-icon-sets/",
-        category: "ICONS"
+        category
     },
     {
         name: "ICONFINDER",
         url: "https://www.iconfinder.com/",
-        category: "ICONS"
-
+        category
+    },
+    {
+        name: "SVGREPO",
+        url: "https://www.svgrepo.com/",
+        category
+    },
+    {
+        name: "LINEICONS",
+        url: "https://lineicons.com/icons",
+        category
+    },
+    {
+        name: "Remix Icon",
+        url: "https://remixicon.com/",
+        category
+    },
+    {
+        name: "Feather Icons",
+        url: "https://feathericons.com/",
+        category
+    },
+    {
+        name: "iconoir",
+        url: "https://iconoir.com/",
+        category
+    },
+    {
+        name: "Phosphor Icons",
+        url: "https://phosphoricons.com/",
+        category: category
     }
 ];

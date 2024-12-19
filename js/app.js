@@ -40,6 +40,12 @@ function enviarFormulario(e) {
     }
 
     const coincidencias = resources.filter(res => {
+        /* 
+        The match() method matches a string against a regular expression **
+        "gi" son las banderas de la expresión regular:
+        g (global): Busca todas las coincidencias en lugar de detenerse en la primera.
+        i (insensitive): Hace que la búsqueda no distinga entre mayúsculas y minúsculas. 
+        */
         if (res.name.match(new RegExp(valor, "gi"))) {
             return res.name;
         }

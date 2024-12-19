@@ -90,7 +90,12 @@ export const js = [
         category: "JS"
     },
     {
-        name: "JavaScript Visualizer 9000 | understand eventloop",
+        name: "Clean Code JavaScript Español",
+        url: "https://github.com/andersontr15/clean-code-javascript-es",
+        category: "JS"
+    },
+    {
+        name: "JavaScript Visualizer 9000 | understand event loop",
         url: "https://www.jsv9000.app/",
         category: "JS"
     },

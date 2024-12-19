@@ -49,5 +49,15 @@ export const color = [
         name: "Pick Color From Image",
         url: "https://imagecolorpicker.com/",
         category
+    },
+    {
+        name: "Picular",
+        url: "https://picular.co/",
+        category
+    },
+    {
+        name: "Tailwind CSS Color Generator",
+        url: "https://uicolors.app/create",
+        category
     }
 ];
