@@ -80,11 +80,6 @@ export const js = [
         category: "JS"
     },
     {
-        name: "TypeScript Guide",
-        url: "https://betterprogramming.pub/the-typescript-guide-i-wish-i-had-185087d66dd1",
-        category: "JS"
-    },
-    {
         name: "Clean Code JavaScript",
         url: "https://github.com/ryanmcdermott/clean-code-javascript",
         category: "JS"

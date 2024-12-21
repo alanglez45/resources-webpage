@@ -81,6 +81,11 @@ export const nodeDB = [
         name: "Sequelize associations eager loading",
         url: "https://sequelize.org/docs/v6/advanced-association-concepts/eager-loading/",
         category: "NODEJS-DATABASE"
+    },
+    {
+        name: "Mejores prácticas de NodeJS",
+        url: "https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md",
+        category: "NODEJS-DATABASE"
     }
 ];
 
