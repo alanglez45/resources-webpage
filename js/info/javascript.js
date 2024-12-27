@@ -90,5 +90,10 @@ export const js = [
         url: "https://www.jsv9000.app/",
         category
     },
+    {
+        name: "JSON crack: Visualize JSON into interactive graphs",
+        url: "https://jsoncrack.com/",
+        category
+    },
 ];
 

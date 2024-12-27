@@ -40,4 +40,9 @@ export const sql = [
         url: "https://www.mysqltutorial.org/mysql-stored-procedure-tutorial.aspx",
         category
     },
+    {
+        name: "build your database, diagrams, etc",
+        url: "https://database.build/",
+        category
+    },
 ];

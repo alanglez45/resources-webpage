@@ -1,122 +1,128 @@
+const category = "VSCODE EXTENSIONS";
 export const vscodeExtensions = [
     {
         name: "Atom One Dark Theme",
         url: "https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "Auto Close Tag",
         url: "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "Auto Rename Tag",
         url: "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "Auto Complete Tag",
         url: "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "CSS Peek",
         url: "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "ES7+ React/Redux/React-Native snippets",
         url: "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "GitHub Theme",
         url: "https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "Image preview",
         url: "https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "LaserWave Theme",
         url: "https://marketplace.visualstudio.com/items?itemName=jaredkent.laserwave",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "Live Server",
         url: "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "Material Icon Theme",
         url: "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "One Dark Pro Theme",
         url: "https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "PHP Debug",
         url: "https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "PHP Extension Pack",
         url: "https://marketplace.visualstudio.com/items?itemName=xdebug.php-pack",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "PHP Intelephense",
         url: "https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "Prettier - Code formatter",
         url: "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode",
-        category: "VSCODE EXTENSIONS",
+        category
     },
     {
         name: "Ra Spring Light Theme",
         url: "https://marketplace.visualstudio.com/items?itemName=rahmanyerli.ra-spring",
-        category: "VSCODE EXTENSIONS"
+        category
     },
     {
         name: "React Theme",
         url: "https://marketplace.visualstudio.com/items?itemName=mikaelkristiansson87.react-theme-vscode",
-        category: "VSCODE EXTENSIONS"
+        category
     },
     {
         name: "Simple React Snippets",
         url: "https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets",
-        category: "VSCODE EXTENSIONS"
+        category
     },
     {
         name: "Subtle Match Brackets",
         url: "https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets",
-        category: "VSCODE EXTENSIONS"
+        category
     },
     {
         name: "Tailwind CSS IntelliSense",
         url: "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss",
-        category: "VSCODE EXTENSIONS"
+        category
     },
     {
         name: "TODO Highlight",
         url: "https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight",
-        category: "VSCODE EXTENSIONS"
+        category
     },
     {
         name: "Tokyo Night Theme",
         url: "https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night",
-        category: "VSCODE EXTENSIONS"
+        category
     },
     {
         name: "vscode-icons",
         url: "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons",
-        category: "VSCODE EXTENSIONS"
+        category
+    },
+    {
+        name: "Draw.io: create diagrams on vscode",
+        url: "https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio",
+        category
     }
 ];

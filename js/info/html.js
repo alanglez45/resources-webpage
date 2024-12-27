@@ -42,5 +42,10 @@ export const fonts = [
         name: "Fontshare",
         url: "https://www.fontshare.com/",
         category: "FONTS"
+    },
+    {
+        name: "Untitled Font Family",
+        url: "https://befonts.com/untitled-font-family.html",
+        category: "FONTS"
     }
 ];

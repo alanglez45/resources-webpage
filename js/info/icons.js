@@ -84,5 +84,10 @@ export const icons = [
         name: "Phosphor Icons",
         url: "https://phosphoricons.com/",
         category: category
+    },
+    {
+        name: "yesicon",
+        url: "https://yesicon.app/?lang=es",
+        category: category
     }
 ];

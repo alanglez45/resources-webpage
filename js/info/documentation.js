@@ -45,4 +45,9 @@ export const documentation = [
         url: "https://www.freecodecamp.org/espanol/news/los-principios-solid-explicados-en-espanol/",
         category
     },
+    {
+        name: "All web documentation",
+        url: "https://devdocs.io/",
+        category
+    },
 ];

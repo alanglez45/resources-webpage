@@ -6,7 +6,7 @@ import { git } from "./git.js";
 import { hostings } from "./hostings.js";
 import { html, fonts } from "./html.js";
 import { icons } from "./icons.js";
-import { images, imgTools } from "./images.js";
+import { images } from "./images.js";
 import { interviews } from "./interview.js";
 import { js } from "./javascript.js";
 import { markdown } from "./markdown.js";
@@ -26,11 +26,15 @@ import { pyhton } from "./python.js";
 import { java } from "./java.js";
 import { repositories } from "./repos.js";
 import { jsLibraries } from "./javascript-libraries.js";
+import { imgTools } from "./images-tools.js";
+import { reactLibraries } from "./react-libraries.js";
+import { cssTools } from "./css-tools.js";
 
 export const resources = [
     ...apis,
     ...color,
     ...css,
+    ...cssTools,
     ...documentation,
     ...dsa,
     ...errors,
@@ -52,6 +56,7 @@ export const resources = [
     ...practice,
     ...pyhton,
     ...react,
+    ...reactLibraries,
     ...regex,
     ...repositories,
     ...sql,
@@ -59,5 +64,4 @@ export const resources = [
     ...usefulTools,
     ...ux,
     ...vscodeExtensions,
-
 ];
