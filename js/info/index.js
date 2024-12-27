@@ -8,7 +8,7 @@ import { html, fonts } from "./html.js";
 import { icons } from "./icons.js";
 import { images, imgTools } from "./images.js";
 import { interviews } from "./interview.js";
-import { js, jsLibraries } from "./javascript.js";
+import { js } from "./javascript.js";
 import { markdown } from "./markdown.js";
 import { nodeDB, nodejs } from "./nodejs.js";
 import { practice } from "./coding-practice.js";
@@ -25,6 +25,7 @@ import { dsa } from "./DSA.JS";
 import { pyhton } from "./python.js";
 import { java } from "./java.js";
 import { repositories } from "./repos.js";
+import { jsLibraries } from "./javascript-libraries.js";
 
 export const resources = [
     ...apis,

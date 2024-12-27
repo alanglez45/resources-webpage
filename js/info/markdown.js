@@ -8,5 +8,10 @@ export const markdown = [
         name: "Markdown Tutorial",
         url: "https://www.markdowntutorial.com/",
         category: "MARKDOWN"
+    },
+    {
+        name: "Markdown editor",
+        url: "https://dillinger.io/",
+        category: "MARKDOWN"
     }
 ];
