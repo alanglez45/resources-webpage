@@ -46,4 +46,14 @@ export const reactLibraries = [
         url: "https://usehooks.com/",
         category
     },
+    {
+        name: "usehooks: A collection of modern, server-safe React hooks",
+        url: "https://usehooks.com/",
+        category
+    },
+    {
+        name: "react-datepicker (calendar)",
+        url: "https://www.npmjs.com/package/react-datepicker",
+        category
+    },
 ];

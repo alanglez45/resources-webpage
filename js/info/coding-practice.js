@@ -130,4 +130,9 @@ export const practice = [
         url: "https://jskatas.org/",
         category
     },
+    {
+        name: "Design Patterns - refactoring guru",
+        url: "https://refactoring.guru/",
+        category
+    },
 ];
