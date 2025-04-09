@@ -91,32 +91,32 @@ export const practice = [
         category
     },
     {
-        name: "Juego Flexbox Froggy CSS",
+        name: "Game Flexbox Froggy CSS",
         url: "https://flexboxfroggy.com/#es",
         category
     },
     {
-        name: "Juego Flexbox Zombies CSS",
+        name: "Game Flexbox Zombies CSS",
         url: "https://mastery.games/flexboxzombies/",
         category
     },
     {
-        name: "Juego CSS plates",
+        name: "Game CSS plates",
         url: "https://flukeout.github.io/",
         category
     },
     {
-        name: "SQL Island juego",
+        name: "SQL Island Game",
         url: "https://sql-island.informatik.uni-kl.de/",
         category
     },
     {
-        name: "SQL Murder Mystery juego",
+        name: "SQL Murder Mystery Game",
         url: "https://mystery.knightlab.com/",
         category
     },
     {
-        name: "SQL Police Department juego",
+        name: "SQL Police Department Game",
         url: "https://sqlpd.com/",
         category
     },
@@ -135,4 +135,5 @@ export const practice = [
         url: "https://refactoring.guru/",
         category
     },
+
 ];

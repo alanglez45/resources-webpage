@@ -1,51 +1,37 @@
+const category = "HTML";
+
 export const html = [
     {
         name: "A free guide to HTML",
         url: "https://htmlreference.io/",
-        category: "HTML"
+        category
     },
     {
         name: "Entidades / Entities",
         url: "https://html.spec.whatwg.org/multipage/named-characters.html",
-        category: "HTML"
+        category
     },
     {
         name: "Tabla periódica HTML5",
         url: "https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/",
-        category: "HTML"
+        category
     },
     {
         name: "Emmet Documentation",
         url: "https://docs.emmet.io/",
-        category: "HTML"
+        category
     },
     {
         name: "HTML 404 Page Templates",
         url: "https://freefrontend.com/html-css-404-page-templates/",
-        category: "HTML"
+        category
     },
     {
         name: "Meta Tags",
         url: "https://metatags.io/",
-        category: "HTML"
+        category
     },
 
 ];
 
-export const fonts = [
-    {
-        name: "Google Fonts",
-        url: "https://fonts.google.com/",
-        category: "FONTS"
-    },
-    {
-        name: "Fontshare",
-        url: "https://www.fontshare.com/",
-        category: "FONTS"
-    },
-    {
-        name: "Untitled Font Family",
-        url: "https://befonts.com/untitled-font-family.html",
-        category: "FONTS"
-    }
-];
+

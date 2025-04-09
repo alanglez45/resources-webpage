@@ -4,7 +4,7 @@ import { css } from "./css.js";
 import { documentation } from "./documentation.js";
 import { git } from "./git.js";
 import { hostings } from "./hostings.js";
-import { html, fonts } from "./html.js";
+import { html } from "./html.js";
 import { icons } from "./icons.js";
 import { images } from "./images.js";
 import { interviews } from "./interview.js";
@@ -29,10 +29,14 @@ import { jsLibraries } from "./javascript-libraries.js";
 import { imgTools } from "./images-tools.js";
 import { reactLibraries } from "./react-libraries.js";
 import { cssTools } from "./css-tools.js";
+import { fonts } from "./fonts.js";
+import { courses } from "./courses.js";
+
 
 export const resources = [
     ...apis,
     ...color,
+    ...courses,
     ...css,
     ...cssTools,
     ...documentation,

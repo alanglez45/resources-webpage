@@ -56,4 +56,9 @@ export const reactLibraries = [
         url: "https://www.npmjs.com/package/react-datepicker",
         category
     },
+    {
+        name: "cally (calendar)",
+        url: "https://www.npmjs.com/package/cally",
+        category
+    },
 ];
