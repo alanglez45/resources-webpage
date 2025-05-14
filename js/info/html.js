@@ -31,6 +31,12 @@ export const html = [
         url: "https://metatags.io/",
         category
     },
+    {
+        name: "Can I include a child tag to a parent tag?",
+        url: "https://caninclude.glitch.me/",
+        category
+    },
+
 
 ];
 

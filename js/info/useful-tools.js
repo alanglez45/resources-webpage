@@ -40,7 +40,7 @@ export const usefulTools = [
         category: "USEFUL TOOLS"
     },
     {
-        name: "Glorify | Design tool similar to canva",
+        name: "Glorify | Design tool [similar to canva]",
         url: "https://www.glorify.com/",
         category: "USEFUL TOOLS"
     },

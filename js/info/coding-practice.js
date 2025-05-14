@@ -16,6 +16,11 @@ export const practice = [
         category
     },
     {
+        name: "Frontend Practice",
+        url: "https://www.frontendpractice.com/",
+        category
+    },
+    {
         name: "Devchallenges: JS, front-end, full-stack",
         url: "https://devchallenges.io/",
         category
