@@ -26,6 +26,11 @@ export const sql = [
         category
     },
     {
+        name: "Learn SQL – SQL Bolt",
+        url: "https://sqlbolt.com/",
+        category
+    },
+    {
         name: "SQL Exercises, Practice, Solution",
         url: "https://www.w3resource.com/sql-exercises/",
         category

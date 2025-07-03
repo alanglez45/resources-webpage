@@ -52,8 +52,33 @@ export const jsLibraries = [
         category
     },
     {
-        name: "string validator ",
+        name: "string validator",
         url: "https://github.com/validatorjs/validator.js/",
+        category
+    },
+    {
+        name: "Sweetalert2 – pop-up boxes, modals",
+        url: "https://sweetalert2.github.io/",
+        category
+    },
+    {
+        name: "Floating UI – tooltips, popovers, dropdowns, and more",
+        url: "https://floating-ui.com/",
+        category
+    },
+    {
+        name: "AtroposJS – parallax hover effects",
+        url: "https://atroposjs.com/",
+        category
+    },
+    {
+        name: "Chartjs – JavaScript charting library",
+        url: "https://www.chartjs.org/",
+        category
+    },
+    {
+        name: "Popper – tooltip",
+        url: "https://popper.js.org/docs/v2/",
         category
     },
 ];
