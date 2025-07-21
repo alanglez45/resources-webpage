@@ -18,5 +18,10 @@ export const tutorials = [
         name: "Code Courses",
         url: "https://code.tutsplus.com/courses",
         category: "TUTORIALS"
+    },
+    {
+        name: "Learn Testing",
+        url: "https://web.dev/learn/testing",
+        category: "TUTORIALS"
     }
 ];

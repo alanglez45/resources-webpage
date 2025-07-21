@@ -111,6 +111,11 @@ export const css = [
         name: "What length CSS unit should you use?",
         url: "https://whatunit.com/",
         category
+    },
+    {
+        name: "nerdy notebook",
+        url: "https://nerdy.dev/notebook/index.html",
+        category
     }
 ];
 

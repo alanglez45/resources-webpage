@@ -1,4 +1,5 @@
-import { resources } from "./info/index.js";
+import { resources } from "./dataIndex.js";
+import { categorias } from "./categories.js"
 
 const formulario = document.querySelector("form");
 const busqueda = document.querySelector("input");
@@ -7,14 +8,6 @@ const btnEnviar = document.querySelector(".btn-search");
 const alertasDiv = document.querySelector(".alertas");
 const contenedor = document.querySelector(".content");
 
-
-let categorias = ["HTML", "CSS", "CSS TOOLS", "IMAGES", "IMAGES TOOLS",
-    "ICONS", "FONTS", "JS", "JS LIBRARIES", "REACT", "APIS", "NODEJS-EXPRESS", "GIT",
-    "NODEJS-DATABASE", "SQL", "TUTORIALS", "REGULAR EXPRESSIONS", "HOSTINGS",
-    "MARKDOWN", "DOCUMENTATION", "UX", "COLOR PALETTES", "INTERVIEWS", "CODING PRACTICE",
-    "USEFUL TOOLS", "OTHERS", "ERRORS | SOLUTIONS", "VSCODE EXTENSIONS", "DATA STRUCTURES & ALGORITHMS",
-    "PYTHON", "JAVA", "REPOSITORIES", "REACT LIBRARIES", "COURSES"
-];
 
 document.addEventListener('DOMContentLoaded', () => {
     cargarEventListeners();
@@ -97,8 +90,8 @@ function limpiarHTML(contenedor) {
 }
 
 function llenarSelect() {
-    categorias = categorias.sort();
-    categorias.forEach(categoria => {
+    const categoriasSelect = categorias.sort();
+    categoriasSelect.forEach(categoria => {
         const option = document.createElement("option");
         option.value = categoria;
         option.textContent = categoria;
@@ -108,7 +101,7 @@ function llenarSelect() {
 
 function mostrarResultadosPorCategoria(e) {
     const categoriaSeleccionada = e.target.value;
-    console.log(categoriaSeleccionada)
+    // console.log(categoriaSeleccionada)
 
     let coincidencias = resources.filter(res => {
         if (res.category === categoriaSeleccionada) {

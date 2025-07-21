@@ -61,4 +61,9 @@ export const reactLibraries = [
         url: "https://www.npmjs.com/package/cally",
         category
     },
+    {
+        name: "reactbits – Animated React components",
+        url: "https://reactbits.dev/",
+        category
+    },
 ];

@@ -89,5 +89,10 @@ export const icons = [
         name: "yesicon",
         url: "https://yesicon.app/?lang=es",
         category: category
+    },
+    {
+        name: "animatedicons",
+        url: "https://animatedicons.co/",
+        category: category
     }
 ];

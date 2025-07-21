@@ -30,5 +30,10 @@ export const apis = [
         url: "https://resend.com/",
         category
     },
+    {
+        name: "Fake Store API",
+        url: "https://fakestoreapi.com/",
+        category
+    },
 
 ];
