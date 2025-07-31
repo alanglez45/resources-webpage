@@ -50,4 +50,10 @@ export const courses = [
         url: "https://www.uxuiopen.com/",
         category
     },
+    {
+        name: "Brais Moure courses | python, java, javascript, git, github, sql, etc",
+        url: "https://moure.dev/cursos",
+        category
+    },
+
 ];

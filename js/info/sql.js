@@ -50,4 +50,9 @@ export const sql = [
         url: "https://database.build/",
         category
     },
+    {
+        name: "drawdb | database design editor, data-modeler, and SQL generator",
+        url: "https://www.drawdb.app/",
+        category
+    },
 ];

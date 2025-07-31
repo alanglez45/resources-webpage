@@ -94,5 +94,10 @@ export const icons = [
         name: "animatedicons",
         url: "https://animatedicons.co/",
         category: category
-    }
+    },
+    {
+        name: "svgl app | svg logos",
+        url: "https://svgl.app/",
+        category: category
+    },
 ];

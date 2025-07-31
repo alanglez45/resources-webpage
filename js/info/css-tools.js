@@ -186,4 +186,9 @@ export const cssTools = [
         url: "https://wpdean.com/css-dividers/",
         category
     },
+    {
+        name: "Deadline loading bar | github repo",
+        url: "https://github.com/alkhalidsardar/Deadline-loading-bar",
+        category
+    },
 ];
