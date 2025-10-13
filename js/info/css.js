@@ -116,6 +116,26 @@ export const css = [
         name: "nerdy notebook",
         url: "https://nerdy.dev/notebook/index.html",
         category
-    }
+    },
+    {
+        name: "CSS Carousels",
+        url: "https://freefrontend.com/css-carousels/",
+        category
+    },
+    {
+        name: "CSS Carousels 2",
+        url: "https://wpdean.com/css-carousels/",
+        category
+    },
+    {
+        name: "How TO - Slideshow",
+        url: "https://www.w3schools.com/howto/howto_js_slideshow.asp",
+        category
+    },
+    {
+        name: "Dropdown css",
+        url: "https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_navbar2",
+        category
+    },
 ];
 

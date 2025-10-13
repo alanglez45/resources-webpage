@@ -55,5 +55,25 @@ export const courses = [
         url: "https://moure.dev/cursos",
         category
     },
+    {
+        name: "itj - Tech Training Library",
+        url: "https://micoach.itj.com/trainings",
+        category
+    },
+    {
+        name: "Become a W3Schooler",
+        url: "https://profile.w3schools.com/signup?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com%2Flabs?open-interview",
+        category
+    },
+    {
+        name: "Arte y Diseño Online",
+        url: "https://icreateonline.com.mx/cursos-online/",
+        category
+    },
+    {
+        name: "Jenkins - Quick Guide",
+        url: "https://www.tutorialspoint.com/jenkins/jenkins_quick_guide.htm",
+        category
+    },
 
 ];

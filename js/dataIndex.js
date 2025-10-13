@@ -7,7 +7,7 @@ import { hostings } from "./info/hostings.js";
 import { html } from "./info/html.js";
 import { icons } from "./info/icons.js";
 import { images } from "./info/images.js";
-import { interviews } from "./info/interview.js";
+import { interviews } from "./info/interviews.js";
 import { js } from "./info/javascript.js";
 import { markdown } from "./info/markdown.js";
 import { nodeDB, nodejs } from "./info/nodejs.js";
@@ -32,15 +32,19 @@ import { cssTools } from "./info/css-tools.js";
 import { fonts } from "./info/fonts.js";
 import { courses } from "./info/courses.js";
 import { browserExtensions } from "./info/browser-extensions.js";
+import { aws } from "./info/aws.js";
+import { devops } from "./info/devops.js";
 
 
 export const resources = [
     ...apis,
+    ...aws,
     ...browserExtensions,
     ...color,
     ...courses,
     ...css,
     ...cssTools,
+    ...devops,
     ...documentation,
     ...dsa,
     ...errors,

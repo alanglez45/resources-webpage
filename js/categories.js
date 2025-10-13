@@ -1,5 +1,6 @@
 export let categorias = [
     "APIS",
+    "AWS",
     "BROWSER EXTENSIONS",
     "CODING PRACTICE",
     "COLOR PALETTES",
@@ -7,6 +8,7 @@ export let categorias = [
     "CSS",
     "CSS TOOLS",
     "DATA STRUCTURES & ALGORITHMS",
+    "DEVOPS",
     "DOCUMENTATION",
     "ERRORS | SOLUTIONS",
     "FONTS",

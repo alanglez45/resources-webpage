@@ -32,13 +32,8 @@ export const cssTools = [
         category
     },
     {
-        name: "CSS Box shadow Sombreado",
-        url: "https://www.cssmatic.com/box-shadow",
-        category
-    },
-    {
-        name: "Make a smooth shadow",
-        url: "https://shadows.brumm.af/",
+        name: "CSS Box shadow generator",
+        url: "https://cssgenerator.org/box-shadow-css-generator.html",
         category
     },
     {

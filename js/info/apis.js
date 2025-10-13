@@ -35,5 +35,10 @@ export const apis = [
         url: "https://fakestoreapi.com/",
         category
     },
+    {
+        name: "Public APIs",
+        url: "https://publicapis.dev/",
+        category
+    },
 
 ];

@@ -66,4 +66,9 @@ export const reactLibraries = [
         url: "https://reactbits.dev/",
         category
     },
+    {
+        name: "react - Carousels",
+        url: "https://react-bootstrap.netlify.app/docs/components/carousel/",
+        category
+    },
 ];

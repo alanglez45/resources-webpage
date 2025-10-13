@@ -23,5 +23,10 @@ export const tutorials = [
         name: "Learn Testing",
         url: "https://web.dev/learn/testing",
         category: "TUTORIALS"
+    },
+    {
+        name: "Ultimate Node/Express.js Project Setup Guide with ESM, Eslint, Prettier, Typescript, Jest, Path alias in 2024",
+        url: "https://medium.com/@RulerChen/how-to-setup-node-express-js-project-with-esm-typescript-jest-path-alias-in-2024-a0b4a4c07b4c",
+        category: "TUTORIALS"
     }
 ];
