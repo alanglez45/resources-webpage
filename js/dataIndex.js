@@ -34,15 +34,19 @@ import { courses } from "./info/courses.js";
 import { browserExtensions } from "./info/browser-extensions.js";
 import { aws } from "./info/aws.js";
 import { devops } from "./info/devops.js";
+import { ai } from "./info/ai.js";
+import { deployment } from "./info/deployment.js";
 
 
 export const resources = [
+    ...ai,
     ...apis,
     ...aws,
     ...browserExtensions,
     ...color,
     ...courses,
     ...css,
+    ...deployment,
     ...cssTools,
     ...devops,
     ...documentation,

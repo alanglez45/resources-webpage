@@ -59,5 +59,10 @@ export const color = [
         name: "Tailwind CSS Color Generator",
         url: "https://uicolors.app/create",
         category
+    },
+    {
+        name: "Bootstrap colors",
+        url: "https://getbootstrap.com/docs/5.3/customize/color/#colors",
+        category
     }
 ];

@@ -55,4 +55,20 @@ export const sql = [
         url: "https://www.drawdb.app/",
         category
     },
+    {
+        name: "db4free.net - Base de datos gratuita mysql",
+        url: "https://db4free.net/",
+        category
+    },
+    {
+        name: "neon - Base de datos gratuita postgreSql",
+        url: "https://neon.com/",
+        category
+    },
+    {
+        name: "turso - Databases everywhere",
+        url: "https://turso.tech/",
+        category
+    },
+
 ];

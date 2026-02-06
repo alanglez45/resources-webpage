@@ -1,5 +1,5 @@
 import { resources } from "./dataIndex.js";
-import { categorias } from "./categories.js"
+import { getUniqueCategories } from "./categories.js"
 
 const formulario = document.querySelector("form");
 const busqueda = document.querySelector("input");
@@ -8,6 +8,7 @@ const btnEnviar = document.querySelector(".btn-search");
 const alertasDiv = document.querySelector(".alertas");
 const contenedor = document.querySelector(".content");
 
+const categorias = getUniqueCategories();
 
 document.addEventListener('DOMContentLoaded', () => {
     cargarEventListeners();

@@ -19,5 +19,11 @@ export const fonts = [
         name: "befonts - Free Fonts for Designers",
         url: "https://befonts.com/?filter=featured",
         category
-    }
+    },
+    {
+        name: "Comfortaa font",
+        url: "https://fonts.google.com/specimen/Comfortaa",
+        category
+    },
+
 ];

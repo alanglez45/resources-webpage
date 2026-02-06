@@ -11,6 +11,11 @@ export const js = [
         category
     },
     {
+        name: " JavaScript roadmap",
+        url: "https://roadmap.sh/javascript",
+        category
+    },
+    {
         name: "El Tutorial de JavaScript Moderno",
         url: "https://es.javascript.info/",
         category
