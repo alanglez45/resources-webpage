@@ -7,13 +7,18 @@ export const css = [
         category
     },
     {
-        name: "CSS Spinners",
-        url: "https://tobiasahlin.com/spinkit/",
+        name: "Should I use pixels or ems/rems?!",
+        url: "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/#the-sixtwofive-trick-13",
         category
     },
     {
-        name: "Open-Source UI elements for any project",
-        url: "https://uiverse.io/",
+        name: "CSS Protips",
+        url: "https://github.com/AllThingsSmitty/css-protips",
+        category
+    },
+    {
+        name: "CSS Spinners",
+        url: "https://tobiasahlin.com/spinkit/",
         category
     },
     {
@@ -52,12 +57,6 @@ export const css = [
         category
     },
     {
-        name: "CSS Protips",
-        url: "https://github.com/AllThingsSmitty/css-protips",
-        category
-    },
-
-    {
         name: "Free themes for Bootstrap",
         url: "https://bootswatch.com/",
         category
@@ -78,7 +77,7 @@ export const css = [
         category
     },
     {
-        name: "Grid examples",
+        name: "Grid cheatsheet",
         url: "https://gridbyexample.com/examples/",
         category
     },
@@ -94,17 +93,7 @@ export const css = [
     },
     {
         name: "Open-Source UI elements made with HTML and CSS",
-        url: "https://uiverse.io/all?fbclid=IwAR32B3BU1naMYDHZG3Sgc6pV0yzAbg_lQE-7w8ZifIOBK0chBSmBt_Fzxiw",
-        category
-    },
-    {
-        name: "A collection of popular layouts and patterns made with CSS",
-        url: "https://csslayout.io/",
-        category
-    },
-    {
-        name: "A collection of popular layouts and patterns made with CSS",
-        url: "https://csslayout.io/",
+        url: "https://uiverse.io/elements",
         category
     },
     {

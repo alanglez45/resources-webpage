@@ -36,6 +36,7 @@ import { aws } from "./info/aws.js";
 import { devops } from "./info/devops.js";
 import { ai } from "./info/ai.js";
 import { deployment } from "./info/deployment.js";
+import { htmlTemplates } from "./info/html-templates.js";
 
 
 export const resources = [
@@ -56,6 +57,7 @@ export const resources = [
     ...git,
     ...hostings,
     ...html,
+    ...htmlTemplates,
     ...icons,
     ...images,
     ...imgTools,

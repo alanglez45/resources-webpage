@@ -64,4 +64,14 @@ export const usefulTools = [
         url: "https://jsoneditoronline.org/",
         category: "USEFUL TOOLS"
     },
+    {
+        name: "Transform data | from JSON to TS, MySQL and more",
+        url: "https://transform.tools/",
+        category: "USEFUL TOOLS"
+    },
+    {
+        name: "Apps sin codigo, APIs",
+        url: "https://magicloops.dev/es",
+        category: "USEFUL TOOLS"
+    },
 ];

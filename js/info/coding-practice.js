@@ -26,6 +26,11 @@ export const practice = [
         category
     },
     {
+        name: "Coding Challenges | TypeScript",
+        url: "https://coding-challenges.dev/",
+        category
+    },
+    {
         name: "CodePen Challenges",
         url: "https://codepen.io/challenges",
         category
@@ -71,11 +76,6 @@ export const practice = [
         category
     },
     {
-        name: "preview 50 Projects in 50 Days - HTML/CSS and JavaScript",
-        url: "https://50projects50days.com/",
-        category
-    },
-    {
         name: "Hacker Rank",
         url: "https://www.hackerrank.com/dashboard",
         category
@@ -93,6 +93,11 @@ export const practice = [
     {
         name: "sololearn | The best way to learn to code",
         url: "https://www.sololearn.com/",
+        category
+    },
+    {
+        name: "ProjectLearn.io",
+        url: "https://projectlearn.io/",
         category
     },
     {
